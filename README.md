@@ -2,7 +2,7 @@
 
 - The game will randomly choose a word for you to guess. The word will be represented by underscores on the screen.
 
--To guess a letter, type it into the input field and click the "Guess" button or press the "Enter" key.
+- To guess a letter, type it into the input field and click the "Guess" button or press the "Enter" key.
 
 - If the letter is in the word, it will appear in the correct position(s) on the screen. If the letter is not in the word, it will be added to the "Guessed" section and a part of the hangman image will be drawn.
 
