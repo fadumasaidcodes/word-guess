@@ -1,6 +1,6 @@
 # Hang-man
 
-## The game Live : https://fadumasaidcodes.github.io/Hang-man/
+ The game Live : https://fadumasaidcodes.github.io/Hang-man/
 
 ## Game screenshot 
 
